@@ -42,6 +42,8 @@ print(text[0])              # Get the first character of the string
 print(text.index("con"))    # Find the index of the substring "con"
 print(text.replace("con", "bon")) # Replace "con" with "bon"
 
+
+
 #########################################################################
 ########################################################################
 

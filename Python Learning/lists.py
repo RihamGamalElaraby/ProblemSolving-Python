@@ -6,6 +6,10 @@
 
 # Creating a list with different types of data
 friends = ["1", "code", True, False]
+string = "this is my code "
+list = (string.split())
+print (list)
+
 
 # Print the entire list
 print(friends)
