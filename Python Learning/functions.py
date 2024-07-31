@@ -34,3 +34,10 @@ def min (x ,y ):
         print ("y is bigger")
 
 min(5 ,6)
+
+#########################3
+
+def cubing(number):
+    return number*number*number
+    
+print(cubing(4))
