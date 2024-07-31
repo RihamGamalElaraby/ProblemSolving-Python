@@ -1,6 +1,6 @@
 ###############################
 ###############################
-#maps 
+#maps #dic
 
 jobs_map = {'reham': "eng"  ,"ahmed" : "doctor"}
 del(jobs_map["reham"])
@@ -17,3 +17,6 @@ userinpurt = input("what would you like to know")
 
 print("here is the %s 's charachter : " %userinpurt)
 print(characters[userinpurt])
+
+
+################################

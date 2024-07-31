@@ -77,3 +77,9 @@ print(count)
 # Clear the list (remove all elements)
 codee.clear()
 print(codee)
+
+
+
+################ to do list
+to_do_list = ["go to gym" , "do homework"]
+print (to_do_list)
